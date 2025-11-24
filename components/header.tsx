@@ -8,7 +8,7 @@ import { Menu, X, Mail, Phone } from "lucide-react"
 export default function Header() {
   const [isOpen, setIsOpen] = useState(false)
 
-  const email = "contact@teslead.com"
+  const email = "sales@teslead.com"
   const phone = "9655217270"
 
   return (
